@@ -12,3 +12,4 @@ D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\refint\Aula01Variaveis
 D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.pdb
 D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.genruntimeconfig.cache
 D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\ref\Aula01Variaveis.dll
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.sourcelink.json

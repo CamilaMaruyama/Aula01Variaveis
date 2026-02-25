@@ -8,6 +8,7 @@ namespace Aula01Variaveis
         {
            ConcatenarPalavras();
            VerificarAulaEtec();
+           CalcularMedia();
         }
 
 
@@ -58,7 +59,32 @@ namespace Aula01Variaveis
 
         }
 
-        
+        public static void CalcularMedia()
+        {
+            Console.WriteLine("Digite a primeira nota");
+            decimal nota1 = decimal.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite a segunda nota");
+            decimal nota2 = decimal.Parse(Console.ReadLine());
+
+            decimal media = (nota1 + nota2) / 2;
+            Console.WriteLine($"A media é {media}");
+
+            if (media >=7)
+            Console.WriteLine("aprovado!");
+
+            else if (media < 7 && media >= 4 )
+
+            Console.WriteLine("recuperação");
+            else 
+            Console.WriteLine("reprovado");
+
+
+
+
+        }
+
+
 
 
     
