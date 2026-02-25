@@ -1,0 +1,14 @@
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.exe
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.deps.json
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.runtimeconfig.json
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.dll
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.pdb
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.AssemblyInfoInputs.cache
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.AssemblyInfo.cs
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.dll
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\refint\Aula01Variaveis.dll
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.pdb
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.genruntimeconfig.cache
+D:\Vando Vagner\DS-Luiz\Aula01Variaveis\obj\Debug\net10.0\ref\Aula01Variaveis.dll
